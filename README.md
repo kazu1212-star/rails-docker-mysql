@@ -7,5 +7,5 @@
   2.7.7
 ### リポジトリのクローン
 ```
-https://github.com/kazu1212-star/rails-docker-mysql/blob/main/README.md
+$ git clone　https://github.com/kazu1212-star/rails-docker-mysql
 ```
