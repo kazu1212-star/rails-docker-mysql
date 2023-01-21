@@ -1,0 +1,16 @@
+current directory: /Users/kazu/Desktop/rails-docker-mysql/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.15.0/ext/bootsnap
+/Users/kazu/.rbenv/versions/2.7.7/bin/ruby -I /Users/kazu/.rbenv/versions/2.7.7/lib/ruby/2.7.0 -r ./siteconf20230119-12186-f6rcn4.rb extconf.rb
+creating Makefile
+
+current directory: /Users/kazu/Desktop/rails-docker-mysql/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.15.0/ext/bootsnap
+make "DESTDIR=" clean
+
+current directory: /Users/kazu/Desktop/rails-docker-mysql/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.15.0/ext/bootsnap
+make "DESTDIR="
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.bundle
+ld: warning: -undefined dynamic_lookup may not work with chained fixups
+
+current directory: /Users/kazu/Desktop/rails-docker-mysql/vendor/bundle/ruby/2.7.0/gems/bootsnap-1.15.0/ext/bootsnap
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bootsnap.bundle ./.gem.20230119-12186-1t4d4gv/bootsnap
