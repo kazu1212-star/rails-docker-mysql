@@ -5,7 +5,13 @@
   6.1.7.1
 - Ruby version
   2.7.7
-### リポジトリのクローン
+### アプリケーションの実装と開発環境の構成ファイルを取得
 ```
 $ git clone　https://github.com/kazu1212-star/rails-docker-mysql
 ```
+### Docker Compose で起動
+```
+docker compose up --detach --build
+```
+
+(http://localhost:3000) に`/products`を追記することで、データベースアプリが立ち上がる
