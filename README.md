@@ -13,9 +13,7 @@ $ git clone　https://github.com/kazu1212-star/rails-docker-mysql
 ```
 docker compose up --detach --build
 ```
-### コンテナに入る
-```
-docker-compose exec web bash
+
 ```
 ### サーバを起動
 ```
