@@ -7,7 +7,7 @@
   2.7.7
 ### アプリケーションの実装と開発環境の構成ファイルを取得
 ```
-$ git clone　https://github.com/kazu1212-star/rails-docker-mysql
+$ git clone https://github.com/kazu1212-star/rails-docker-mysql
 ```
 ### Docker Compose で起動
 ```
