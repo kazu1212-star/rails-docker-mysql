@@ -14,7 +14,6 @@ $ git clone　https://github.com/kazu1212-star/rails-docker-mysql
 docker compose up --detach --build
 ```
 
-```
 ### サーバを起動
 ```
 rails s -b 0.0.0.0
