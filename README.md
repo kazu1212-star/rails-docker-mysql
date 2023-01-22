@@ -15,9 +15,5 @@ docker compose up --detach --build
 ```
 
 ### サーバを起動
-```
-rails s -b 0.0.0.0
-```
-
 
 (http://localhost:3000) に`/products`を追記することで、データベースアプリが立ち上がる
